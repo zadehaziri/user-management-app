@@ -14,7 +14,7 @@ Perdor **Redux Toolkit** per menaxhimin e state-it, **React Router** per routing
 - [Teknologjite](#-teknologjite)
 - [Si ta nisesh](#-Si-ta-nisesh)
 - [Struktura e projektit](#-struktura-e-projektit)
-- [npm Scripts)](#-npm-scripts)
+- [npm Scripts](#-npm-scripts)
 - [Screenshots](#-screenshots)
 
 ---
