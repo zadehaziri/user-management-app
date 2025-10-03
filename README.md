@@ -10,6 +10,7 @@ Perdor **Redux Toolkit** per menaxhimin e state-it, **React Router** per routing
 
 <a id="permbajtja"></a>
 ## Permbajtja
+<<<<<<< HEAD
 - [Veçorite](#vecorite)
 - [Bonus](#bonus)
 - [Teknologjite](#teknologjite)
@@ -17,6 +18,15 @@ Perdor **Redux Toolkit** per menaxhimin e state-it, **React Router** per routing
 - [Struktura e projektit](#struktura-e-projektit)
 - [npm Scripts](#npm-scripts)
 - [Screenshots](#screenshots)
+=======
+- [Veçorite](#-veçorite)
+- [Bonus](#-bonus)
+- [Teknologjite](#-teknologjite)
+- [Si ta nisesh](#-Si-ta-nisesh)
+- [Struktura e projektit](#-struktura-e-projektit)
+- [npm Scripts](#-npm-scripts)
+- [Screenshots](#-screenshots)
+>>>>>>> 2805e4c956bc365024e3e0ebd9729cacb3238167
 
 ---
 
@@ -63,6 +73,7 @@ Struktura e projektit
 text
 Copy code
 user-management-app/
+<<<<<<< HEAD
 ├── src/
 │   ├── components/    # Toolbar, UsersTable, AddUserModal, InlineEdit, Layout
 │   ├── pages/         # UsersPage, UserDetails
@@ -72,6 +83,16 @@ user-management-app/
 ├── index.html
 └── tailwind.config.js & vite.config.js
 <a id="npm-scripts"></a>
+=======
+src/
+── components/    # Toolbar, UsersTable, AddUserModal, InlineEdit, Layout
+── pages/         # UsersPage, UserDetails
+── store/         # Redux store + usersSlice
+── App.jsx        # Routing kryesor
+── main.jsx       # Entry point
+── index.html
+── tailwind.config.js & vite.config.js
+>>>>>>> 2805e4c956bc365024e3e0ebd9729cacb3238167
 
 npm Scripts
 bash
