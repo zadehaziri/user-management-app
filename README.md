@@ -56,14 +56,14 @@ Perdor **Redux Toolkit** per menaxhimin e state-it, **React Router** per routing
 ## Struktura e projektit
 
 user-management-app/
-├── src/
-│   ├── components/    # Toolbar, UsersTable, AddUserModal, InlineEdit, Layout
-│   ├── pages/         # UsersPage, UserDetails
-│   ├── store/         # Redux store + usersSlice
-│   ├── App.jsx        # Routing kryesor
-│   └── main.jsx       # Entry point
-├── index.html
-└── tailwind.config.js & vite.config.js
+src/
+── components/    # Toolbar, UsersTable, AddUserModal, InlineEdit, Layout
+── pages/         # UsersPage, UserDetails
+── store/         # Redux store + usersSlice
+── App.jsx        # Routing kryesor
+── main.jsx       # Entry point
+── index.html
+── tailwind.config.js & vite.config.js
 
 
 ### npm Scripts
